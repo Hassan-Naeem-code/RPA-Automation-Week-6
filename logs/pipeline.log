@@ -1,1 +1,14 @@
 Transform failed: 'aqi'
+{"level": "INFO", "time": "2025-08-17 21:53:40,171", "message": "Pipeline started", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:53:40,171", "message": "API fetch attempt 1 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:53:42,177", "message": "API fetch attempt 2 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:53:44,183", "message": "API fetch attempt 3 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:53:46,187", "message": "API fetch failed after retries.", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:53:46,205", "message": "Transform failed: 'station_id'", "name": "root"}
+{"level": "INFO", "time": "2025-08-17 21:53:46,245", "message": "Pipeline complete", "name": "root"}
+{"level": "INFO", "time": "2025-08-17 21:56:52,369", "message": "Pipeline started", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:56:52,370", "message": "API fetch attempt 1 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:56:54,376", "message": "API fetch attempt 2 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:56:56,382", "message": "API fetch attempt 3 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-17 21:56:58,388", "message": "API fetch failed after retries.", "name": "root"}
+{"level": "INFO", "time": "2025-08-17 21:56:58,456", "message": "Pipeline complete", "name": "root"}
