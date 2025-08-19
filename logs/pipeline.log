@@ -18,3 +18,15 @@ Transform failed: 'aqi'
 {"level": "ERROR", "time": "2025-08-17 22:06:33,372", "message": "API fetch attempt 3 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
 {"level": "ERROR", "time": "2025-08-17 22:06:35,377", "message": "API fetch failed after retries.", "name": "root"}
 {"level": "INFO", "time": "2025-08-17 22:06:35,440", "message": "Pipeline complete", "name": "root"}
+{"level": "INFO", "time": "2025-08-19 00:17:30,584", "message": "Pipeline started", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:17:30,585", "message": "API fetch attempt 1 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:17:32,591", "message": "API fetch attempt 2 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:17:34,598", "message": "API fetch attempt 3 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:17:36,604", "message": "API fetch failed after retries.", "name": "root"}
+{"level": "INFO", "time": "2025-08-19 00:17:36,724", "message": "Pipeline complete", "name": "root"}
+{"level": "INFO", "time": "2025-08-19 00:24:21,531", "message": "Pipeline started", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:24:21,532", "message": "API fetch attempt 1 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:24:23,538", "message": "API fetch attempt 2 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:24:25,547", "message": "API fetch attempt 3 failed: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?", "name": "root"}
+{"level": "ERROR", "time": "2025-08-19 00:24:27,548", "message": "API fetch failed after retries.", "name": "root"}
+{"level": "INFO", "time": "2025-08-19 00:24:27,627", "message": "Pipeline complete", "name": "root"}
